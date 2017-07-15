@@ -1,4 +1,4 @@
-# HackerEarth-Machine-Learning-Challenge---Credit-Scoring
+# HackerEarth-Machine-Learning-Challenge---Credit-Scoring--Lending-Club
 Implementation of Logistic Regression and Other Machine Learning algorithms to predict the credit score( Probability of Deafult) of a customer.
 
 
